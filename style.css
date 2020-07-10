@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-image: url("back_pic.jpg");
+}
+h1{
+    color: #fff;
+    display: inline-block;
+    width: 100px;
+    border-radius: 20px;
+    
+ }
+ .btn{
+     color: #fff;
+    background-color: #4CB3CA;
+    border-radius: 20px; 
+ }
+ .main_cont{
+     background-color: violet;
+     border-radius: 50p;
+ }
+ @media screen and (max-width: 550px) {
+    body {
+        background-image: url("back_pic.jpg");
+    }
+  }
